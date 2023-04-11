@@ -1,0 +1,107 @@
+.selected {
+    border: 10px solid red;
+    background-color: #D14D72;
+  }
+
+
+#navbarScroll{
+    padding-left: 60%;
+    margin: 5%;
+    
+}
+.navbar-brand img {
+    height: 8px;
+  }
+
+#nav{
+    background-color: #F2E3DB!important;
+}
+
+
+
+body{
+    background-color:#F2E3DB !important;
+}
+
+
+div.container-fluid{
+    background-color:#F2E3DB;
+}
+
+#carousel{
+    background-color:#F2E3DB
+   
+}
+
+a.navbar-brand{
+    font-size: 3.5rem;
+    font-weight: 900;
+    font-family: monstserrat-bold;
+    padding-left: 200px;
+    color: #41644A;
+}
+
+.paragraph{
+    font-size: 4rem;
+    font-family: montserrat;
+    font-weight: 100;
+    background-color:#F2E3DB;
+    font-family: 'monstserrat';
+
+
+}
+
+.card{
+    size: 5rem;
+    margin-top: 50px;
+   
+    
+}
+
+.card:hover{
+    color:aquamarine;
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+    
+    
+}
+
+.class_for_card_title{
+    
+    font-size: 2rem;
+    font-weight: 900;
+    color: #D14D72;
+    font-family: 'monstserrat';
+
+}
+
+
+.class_for_card_body{
+    text-align: center;
+    font-family: 'monstserrat';
+    background-color: #FEF2F4;
+}
+
+
+.class_for_card_text{
+    color: #FFABAB;
+}
+
+
+.container{
+    width: 100%;
+}
+
+
+.ques{
+    font-size: 'monsterrat';
+}
+
+li.nav-item{
+    margin-right: 5px;
+}
+
+.new{
+   max-width: 1400px;
+   min-height: 450px;
+}
